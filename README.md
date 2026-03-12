@@ -22,11 +22,11 @@
 
 1. **編譯程式碼**：
    ```bash
-   javac WeightedIntervalScheduling.java
+   Algorithm_0310_Assignments_1.java
 
 2. **執行程式**：
     ```bash
-    java WeightedIntervalScheduling
+    java Algorithm_0310_Assignments_1
 
 ## 📊 預期輸出
 針對教材中的測試資料，程式將輸出以下結果，並印出時間複雜度分析：
@@ -42,5 +42,5 @@
     Time Complexity Analysis:
 
     - Sorting: O(n log n)
-    
+
     - DP with Binary Search: O(n log n)
