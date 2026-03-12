@@ -31,7 +31,7 @@
 ## 📊 預期輸出
 針對教材中的測試資料，程式將輸出以下結果，並印出時間複雜度分析：
     ```bash
-    --- Assignment 1: Greedy vs DP ---
+    Assignment 1: Greedy vs DP
     Greedy Selected: A D H 
     Greedy Total Value: 13
     DP Optimal Total Value: 13
